@@ -1,13 +1,6 @@
-# include<stdio.h>
-// Aree Meri Zaan, Kha le paan, Le le gaddi, Khol de chdhhi
-int main()
+#include <stdio.h>
+int main ()
 {
-    /* bhuhvfjbnvjkxdfnvfhjkdsnfvuhnjnvdfjkhnv
-    jkldfjdrjdfkjmnikjrtgklji
-    kljndfikjiksetgjkikmkfgjgkljmrgrklkjldrtgjkdtgikvjrkljferiufjo iujiojklpo
-    jk;ierijmjiijktrnkljetgmiotc5krmnrgjipojikdtmnjiotgdjdtmjndtgkljkdfkljrgmklgjuersaoerklfjrq,.dfjdfskl
-    mdfkldfl;mk;lk
-    */
-    printf("I am learning C or the first time... Yoooooo boiyyyy");
+    printf("Hello World");
     return 0;
 }
